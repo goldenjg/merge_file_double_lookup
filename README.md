@@ -28,6 +28,6 @@ USERID	quantity1     Quantity2	  Email
 1235	    56        56          j2@gmail.com
 1567	    23        missing     missing
 1582	    86	      86	  j4@gmail.com
-1231	    missing   13    j1@gmail.com
-1568	    missing   24    j3@gmail.com
+1231	    missing   13          j1@gmail.com
+1568	    missing   24          j3@gmail.com
 ```
