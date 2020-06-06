@@ -4,8 +4,7 @@ Python vlookup both directions
 This compares 2 files and makes a comprehensive list of both based on the key field
 and makes corresponding columns with values from each of the files
 it puts missing where it exists in the complete list but not in one of the files
-it's similar to what 2 vlookups would look like in Excel
-- one from list 1 to 2 and one from list 2 to 1
+it's similar to what 2 vlookups would look like in Excel, one from list 1 to 2 and one from list 2 to 1
 
 
 File 1
